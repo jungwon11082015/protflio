@@ -1,0 +1,71 @@
+
+/*
+	1.MaruBuri = > 국문
+	
+	국문  'Spoqa Han Sans Neo', 'sans-serif'
+	SpoqaHanSans
+	영문
+	Old Standard TT
+
+
+*/
+
+
+$font_path: '/assets/fonts/';
+
+
+@font-face {
+    font-family: "MaruBuri";
+	src: local(※),
+	url( $font_path + 'MaruBuri-Regular.eot?#iefix') format('embedded-opentype'),
+	url( $font_path + 'MaruBuri-Regular.woff') format('woff'),
+	url( $font_path + 'MaruBuri-Regular.woff2') format('woff2'),
+	url( $font_path + 'MaruBuri-Regular.otf') format('opentype');
+	font-weight: 400;  
+	font-style: normal; 
+}
+
+
+
+@font-face {
+    font-family: "OldStandardTT-Regular";
+	src: local(※),
+	url( $font_path + 'OldStandardTT-Regular.eot?#iefix') format('embedded-opentype'),
+	url( $font_path + 'OldStandardTT-Regular.woff') format('woff'),
+	url( $font_path + 'OldStandardTT-Regular.woff2') format('woff2'),
+	url( $font_path + 'OldStandardTT-Regular.otf') format('opentype');
+	font-weight: 400;  
+	font-style: normal; 
+}
+
+@font-face {
+    font-family: "OldStandardTT-Italic";
+	src: local(※),
+	url( $font_path + 'OldStandardTT-Italic.eot?#iefix') format('embedded-opentype'),
+	url( $font_path + 'OldStandardTT-Italic.woff') format('woff'),
+	url( $font_path + 'OldStandardTT-Italic.woff2') format('woff2'),
+	url( $font_path + 'OldStandardTT-Italic.otf') format('opentype');
+	font-weight: 400;  
+	font-style: italic; 
+}
+
+
+@font-face {
+    font-family: "OldStandardTT-Bold";
+	src: local(※),
+	url( $font_path + 'OldStandardTT-Bold.eot?#iefix') format('embedded-opentype'),
+	url( $font_path + 'OldStandardTT-Bold.woff') format('woff'),
+	url( $font_path + 'OldStandardTT-Bold.woff2') format('woff2'),
+	url( $font_path + 'OldStandardTT-Bold.otf') format('opentype');
+	font-weight: 700;  
+	font-style: normal; 
+}
+
+
+
+
+/*국문 폰트 */
+// %noto-m{ font-family: "NotoSansKR"; font-weight: 600; letter-spacing: -1px; }
+// %noto-d{ font-family: "NotoSansKR"; font-weight: 300; letter-spacing: -1px; }
+// %noto-r{ font-family: "NotoSansKR"; font-weight: 400;  letter-spacing: -1px;}
+// %noto-b{ font-family: "NotoSansKR"; font-weight: bold;  letter-spacing: -1px; }

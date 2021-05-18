@@ -1,0 +1,56 @@
+//worksList
+
+{
+    "data": [
+        {
+            "id" : 0,
+            "imgSrc" :"assets/images/main/main-works-img_01.png", 
+            "websiteType": "Lifestyle Commerce & Community", 
+            "siteName": "Guud.com",
+            "description": "AVA Solution, 가구 및 생활소품 종합몰(편집숍) : 입점형, O2O 매장연계 및 콘텐츠 커머스 구현, ERP, POS, 제휴몰 등 내,외부 연동",
+            "skillList": [ "HTML5", "SCSS", "VUE.JS" ]
+        },
+        {
+            "id" : 1,
+            "imgSrc" :"assets/images/main/main-works-img_01.png", 
+            "websiteType": "Lifestyle Commerce & Community", 
+            "siteName": "Guud.com",
+            "description": "AVA Solution, 가구 및 생활소품 종합몰(편집숍) : 입점형, O2O 매장연계 및 콘텐츠 커머스 구현, ERP, POS, 제휴몰 등 내,외부 연동",
+            "skillList": [ "HTML5", "SCSS", "VUE.JS" ]
+        },
+        {
+            "id" : 2,
+            "imgSrc" :"assets/images/main/main-works-img_01.png", 
+            "websiteType": "Lifestyle Commerce & Community", 
+            "siteName": "Guud.com",
+            "description": "AVA Solution, 가구 및 생활소품 종합몰(편집숍) : 입점형, O2O 매장연계 및 콘텐츠 커머스 구현, ERP, POS, 제휴몰 등 내,외부 연동",
+            "skillList": [ "HTML5", "SCSS", "VUE.JS" ]
+        },
+        {
+            "id" : 4,
+            "imgSrc" :"assets/images/main/main-works-img_01.png", 
+            "websiteType": "Lifestyle Commerce & Community", 
+            "siteName": "Guud.com",
+            "description": "AVA Solution, 가구 및 생활소품 종합몰(편집숍) : 입점형, O2O 매장연계 및 콘텐츠 커머스 구현, ERP, POS, 제휴몰 등 내,외부 연동",
+            "skillList": [ "HTML5", "SCSS", "VUE.JS" ]
+        },
+        {
+            "id" : 5,
+            "imgSrc" :"assets/images/main/main-works-img_01.png", 
+            "websiteType": "Lifestyle Commerce & Community", 
+            "siteName": "Guud.com",
+            "description": "AVA Solution, 가구 및 생활소품 종합몰(편집숍) : 입점형, O2O 매장연계 및 콘텐츠 커머스 구현, ERP, POS, 제휴몰 등 내,외부 연동",
+            "skillList": [ "HTML5", "SCSS", "VUE.JS" ]
+        },
+        {
+            "id" : 6,
+            "imgSrc" :"assets/images/main/main-works-img_01.png", 
+            "websiteType": "Lifestyle Commerce & Community", 
+            "siteName": "Guud.com",
+            "description": "AVA Solution, 가구 및 생활소품 종합몰(편집숍) : 입점형, O2O 매장연계 및 콘텐츠 커머스 구현, ERP, POS, 제휴몰 등 내,외부 연동",
+            "skillList": [ "HTML5", "SCSS", "VUE.JS" ]
+        },
+
+    ]
+
+  }
